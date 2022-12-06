@@ -73,12 +73,13 @@ main {
   background-color: #e9630a;
 }
 
-eader {
+header {
   width: 100%;
+  margin-bottom: 12px;
 }
 
 .border-right {
-  border-right: 1px solid #9b9e9d;
+  border-right: 1px solid #0677e0;
 }
 
 nav {
@@ -103,8 +104,9 @@ nav {
 
 .nav-link a {
   text-decoration: none;
-  color: inherit;
+  color: #0677e0;
   font-size: 1.2rem;
+  border-bottom: 1px solid #0677e0;
 }
 
 .title {
