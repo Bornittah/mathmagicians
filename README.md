@@ -68,9 +68,7 @@ HTML, CSS, Es6 Javascript
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> No live demo
-
-<!-- - [Live Demo Link](https://yourdeployedapplicationlink.com) -->
+[Live Demo Link](https://mathmagician-js9v.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
